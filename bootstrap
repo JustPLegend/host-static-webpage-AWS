@@ -1,0 +1,34 @@
+#Bootstrap work - Host static webpage on EC2 using bootstrap
+
+#!/bin/bash -xe
+
+#Change permissions
+sudo su
+#SystemUpdates
+yum -y update 
+yum -y upgrade
+
+#Apache web server installation 
+
+yum install httpd -y
+
+#Starting web server and enable
+
+systemctl enable httpd
+systemctl start httpd
+
+#Install GIT on webserver
+
+yum install git -y 
+
+#Clone page to web server
+
+git clone https://github.com/JustPLegend/host-static-webpage.git
+
+#Move files from repository to /var/www/html/ folder
+
+cd host-static-webpage
+mv index.html /var/www/html
+
+#If you have folders in your own repo, you need to move it also in /html folder on webserver
+#After this step, copy your public IP of EC2 instance in web browser. It should show index page.
