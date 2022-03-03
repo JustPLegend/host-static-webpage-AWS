@@ -7,3 +7,4 @@ On youtube channel CloudLife will be posted video, step by step how to do this i
 
 1.First it will be created static webpage (index.html) without download this Repository (EC2)
 2.Another lab will be host static webpage using this repository and index.html
+3.Host static webpage using bootstrap
