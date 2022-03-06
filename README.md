@@ -5,5 +5,6 @@ You can use this index.html file for practice different methods to host webpage 
 
 On youtube channel CloudLife will be posted video, step by step how to do this in your own environment.
 
-1.First it will be created static webpage (index.html) without download this Repository (EC2)
-2.Another lab will be host static webpage using this repository and index.html
+1. First it will be created static webpage (index.html) without download this Repository (EC2)
+2. Another lab will be host static webpage using this repository and index.html
+3. Host static webpage using bootstrap
