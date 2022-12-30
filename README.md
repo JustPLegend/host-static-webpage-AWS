@@ -1,4 +1,4 @@
-# host-static-webpage
+# Host static web page on AWS 
 Repository for practice to host static webpage on EC2, S3 using different methods.
 
 You can use this index.html file for practice different methods to host webpage on Amazon Web Services using services EC2, S3 and different combinations.
