@@ -1,10 +1,13 @@
 # Host static web page on AWS 
-Repository for practice to host static webpage on EC2, S3 using different methods.
 
-You can use this index.html file for practice different methods to host webpage on Amazon Web Services using services EC2, S3 and different combinations.
 
-On youtube channel CloudLife will be posted video, step by step how to do this in your own environment.
+Feel free to use this repository your mini projects. This website have official website and social media accounts.
 
-1. First it will be created static webpage (index.html) without download this Repository (EC2)
-2. Another lab will be host static webpage using this repository and index.html
-3. Host static webpage using bootstrap
+## Follow us and give 🌟 ! 
+
+1. [Official website](https://awsdevopsresources.com/)
+2. [GitHub](https://github.com/awsdevopresources)
+3. [YoutTube channel](https://www.youtube.com/channel/UCDalssvq2pHV8EErZyWXb6g)
+4. [X ex Twitter](https://x.com/awsdevopssource)
+
+
